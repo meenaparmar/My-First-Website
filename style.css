@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* { 
+    padding: 80px;
+    color: white;
+    align-items: center;
+    text-align: center;
+    background: #1abc9c;
+    font-size: 40px;
+}
+
